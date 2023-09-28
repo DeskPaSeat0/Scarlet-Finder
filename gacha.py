@@ -345,8 +345,8 @@ def ten_pull():
         each_pull = one_pull()
         result.append(each_pull)
     
-    for j in result:
-        print(j, end=", ")
+    #for j in result:
+        #print(j, end=", ")
         
     return result
         
